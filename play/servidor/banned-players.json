@@ -1,0 +1,26 @@
+[
+  {
+    "uuid": "b0f306ac-cf20-3642-a964-e3bc144081b5",
+    "name": "DarkZinPTX",
+    "created": "2021-07-24 02:02:54 +0000",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "Cai fora"
+  },
+  {
+    "uuid": "04bb8764-414a-31cb-9f8a-c4544fa13e56",
+    "name": "LuKinhas_DDR3",
+    "created": "2021-07-25 03:12:54 +0000",
+    "source": "N3rdyDesigner",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "1c882f75-07b9-3337-bb60-9829d07d1b3c",
+    "name": "akn3",
+    "created": "2021-07-22 21:10:18 +0000",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  }
+]
